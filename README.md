@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Wenqing Cao
 
 Welcome to my GitHub profile! I'm an AI enthusiast passionate about developing impactful AI-driven solutions. Let's connect and create something innovative together!
+<img align='right' src='sanrio.gif' width='300'>
+
 
 
 ### 📖 My Machine Learning Blog
