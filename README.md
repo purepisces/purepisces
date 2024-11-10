@@ -15,5 +15,3 @@ Aiming to build one of the most comprehensive resources on machine learning, cov
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purepisces&show_icons=true&locale=en&layout=compact" alt="purepisces" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purepisces&show_icons=true&locale=en" alt="purepisces" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purepisces&" alt="purepisces" /></p>
